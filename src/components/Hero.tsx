@@ -43,7 +43,7 @@ const Hero: React.FC<HeroProps> = ({ darkMode }) => {
               Get in Touch
             </a>
             <a 
-              href=".\PV TARUN KUMAR REDDY CV.pdf" 
+              href=".\PV TARUN KUMAR REDDY CV (2).pdf" 
               className={`px-6 py-3 rounded-full font-medium flex items-center transition-colors ${
                 darkMode 
                   ? 'bg-gray-800 hover:bg-gray-700 text-white' 
